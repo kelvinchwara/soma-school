@@ -52,6 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Soma specific colors
+				soma: {
+					orange: 'hsl(var(--soma-orange))',
+					brown: 'hsl(var(--soma-brown))',
+					green: 'hsl(var(--soma-green))',
+					'light-orange': 'hsl(var(--soma-light-orange))',
+					cream: 'hsl(var(--soma-cream))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
