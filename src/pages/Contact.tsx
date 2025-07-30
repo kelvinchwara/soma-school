@@ -15,7 +15,7 @@ const Contact = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const whatsappMessage = `Hello Soma Home School,
+    const whatsappMessage = `Hello Soma Home School, I want to get in touch with you. Here are my details:
 
 Name: ${formData.name}
 Email: ${formData.email}
@@ -23,7 +23,7 @@ Phone: ${formData.phone}
 
 Message: ${formData.message}`;
     
-    const whatsappUrl = `https://wa.me/254791639902?text=${encodeURIComponent(whatsappMessage)}`;
+const whatsappUrl = `https://wa.me/254720059892?text=${encodeURIComponent(whatsappMessage)}`;
     window.open(whatsappUrl, '_blank');
   };
 

@@ -128,7 +128,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
               <div className="space-y-2">
                 <div className="flex items-center space-x-2">
                   <Phone className="h-4 w-4" />
-                  <span className="text-sm">+254 791 639 902</span>
+                  <span className="text-sm">+254 720 059 892</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="h-4 w-4" />
@@ -143,9 +143,9 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
           </div>
 
           <div className="border-t border-white/20 mt-8 pt-4 text-center">
-            <p className="text-sm text-white/60">
-              © 2024 Soma Home School. All rights reserved.
-            </p>
+<p className="text-sm text-white/60">
+  © 2025 Soma Home School. All rights reserved.
+</p>
           </div>
         </div>
       </footer>
