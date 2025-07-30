@@ -54,7 +54,7 @@ const whatsappUrl = `https://wa.me/254720059892?text=${encodeURIComponent(whatsa
                       </div>
                       <div>
                         <h3 className="font-semibold text-primary">Phone</h3>
-                        <p className="text-muted-foreground">+254 791 639 902</p>
+                        <p className="text-muted-foreground">+254 720 059 892</p>
                       </div>
                     </div>
                   </CardContent>
